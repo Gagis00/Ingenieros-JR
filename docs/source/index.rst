@@ -41,7 +41,7 @@ Retos del curso:
    delay (1000);
    }
 
--Ultrasónico con LED
+- Ultrasónico con LED
 
 .. code-block:: c++
    
