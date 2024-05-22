@@ -24,6 +24,23 @@ Contents
    componentes
 
 Retos del curso:
+
+   - Circuito de prueba con un LED
+
+.. code-block:: c++
+
+   void setup() {
+   pinMode(13, OUTPUT); 
+   Serial.begin(9600);
+   }
+
+   void loop() {
+   digitalWrite(13, HIGH);   // prende el LED   
+   delay (1000);
+   digitalWrite(13,LOW);     // apaga el LED
+   delay (1000);
+   }
+
    -Ultrasónico con LED
 
 .. code-block:: c++
