@@ -25,7 +25,13 @@ Contents
 
 Archivos:
 
+`S5_INGJR_PROTO <_static/S5_INGJR_PROTO.pdf>`_
 
+`S5_INGJR_ACTUADORES <_static/S5_INGJR_ACTUADORES.pdf>`_
+
+`S4_INGJR_ELECTRONICA <_static/S4_INGJR_ELECTRONICA.pdf>`_
+
+`S3_INGJR_DISEÑO <_static/S3_INGJR_DISEÑO.pdf>`_
 
 
 Retos del curso:
