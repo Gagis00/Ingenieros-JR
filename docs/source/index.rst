@@ -95,6 +95,6 @@ Retos del curso:
    return distancia;
    }
 
--Movimiento del robot con los motores
+- Movimiento del robot con los motores
 
 
