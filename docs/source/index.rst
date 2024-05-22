@@ -38,7 +38,7 @@ Retos del curso:
 
 - Circuito de prueba con un LED
 
-.. figure:: img/Circuito de prueba.png
+.. figure:: img/Circuito_de_prueba.png
 
 .. code-block:: c++
 
