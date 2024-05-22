@@ -25,7 +25,7 @@ Contents
 
 Archivos:
 
-`S5_INGJR_PROTO <archivos/S5_INGJR_PROTO.pdf>`_
+`S5_INGJR_PROTO <docs/source/archivos/S3_INGJR_DISEÑO.pdf>`_
 
 `S5_INGJR_ACTUADORES <archivos/S5_INGJR_ACTUADORES.pdf>`_
 
