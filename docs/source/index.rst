@@ -23,6 +23,11 @@ Contents
    Introducción a los robots y su diseño
    componentes
 
+Archivos:
+
+
+
+
 Retos del curso:
 
 - Circuito de prueba con un LED
