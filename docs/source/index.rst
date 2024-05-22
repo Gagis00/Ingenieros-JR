@@ -15,15 +15,16 @@ how to :ref:`installation` the project.
 
    Esta plataforma esta en cambio constante
 
-Contents
---------
+Contenidos
+------------
 
 .. toctree::
 
    Introducción a los robots y su diseño
    componentes
 
-Archivos:
+Archivos
+---------
 
 - Sesión 5 = `S5_INGJR_PROTO <archivos/S5_INGJR_PROTO.pdf>`_
 
@@ -33,7 +34,8 @@ Archivos:
 
 - Sesión 3 = `S3_INGJR_DISEÑO <archivos/S3_INGJR_DISEÑO.pdf>`_
 
-Retos del curso:
+Retos del curso
+-----------------
 
 - Circuito de prueba con un LED
 
