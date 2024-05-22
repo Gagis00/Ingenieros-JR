@@ -1,8 +1,7 @@
-Template for the Read the Docs tutorial
+Esto es Ingenieros JR.
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Un proyecto iniciado por PrepaTec Hidalgo
 
 Read the tutorial here:
 
