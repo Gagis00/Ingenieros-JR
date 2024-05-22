@@ -25,7 +25,7 @@ Contents
 
 Retos del curso:
 
-   - Circuito de prueba con un LED
+- Circuito de prueba con un LED
 
 .. code-block:: c++
 
@@ -41,7 +41,7 @@ Retos del curso:
    delay (1000);
    }
 
-   -Ultrasónico con LED
+-Ultrasónico con LED
 
 .. code-block:: c++
    
