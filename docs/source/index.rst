@@ -27,7 +27,7 @@ Archivos:
 
 - `S5_INGJR_PROTO <docs/source/archivos/S5_INGJR_PROTO.pdf>`_
 
-- `S5_INGJR_ACTUADORES <archivos/S5_INGJR_ACTUADORES.pdf>`_
+- `S5_INGJR_ACTUADORES <docs/source/archivos/S5_INGJR_ACTUADORES.pdf>`_
 
 - `S4_INGJR_ELECTRONICA <archivos/S4_INGJR_ELECTRONICA.pdf>`_
 
