@@ -4,6 +4,9 @@ Sesiones
 Sesión de comunicación
 ------------------------
 
+.. note::
+Este código puede ser usado para probar el Bluetooth de tu robot. (sesión 25 de mayo)
+
 .. code-block:: c++
 
     #include <SoftwareSerial.h>
