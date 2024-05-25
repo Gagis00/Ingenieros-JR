@@ -22,7 +22,7 @@ Contenidos
 
    Introducción a los robots y su diseño
    componentes
-   Sesiones
+   sesiones
 
 Archivos
 ---------
