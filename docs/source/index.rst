@@ -22,6 +22,6 @@ Contenidos
 
    Introducción a los robots y su diseño
    componentes
-   sesiones
+   sesiones y retos
    Archivos
 
