@@ -20,11 +20,15 @@ Contenidos
 
 .. toctree::
    :caption: Introducción
+   :maxdepth: 2
+
    Introducción a los robots y su diseño
    componentes
    
 .. toctree::
    :caption: Usado en el curso
+   :maxdepth: 3
+
    sesiones y retos
    Archivos
    Links útiles
