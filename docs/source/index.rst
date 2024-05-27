@@ -19,9 +19,12 @@ Contenidos
 ------------
 
 .. toctree::
-
+   :caption: Introducción
    Introducción a los robots y su diseño
    componentes
+   
+.. toctree::
+   :caption: Usado en el curso
    sesiones y retos
    Archivos
    Links útiles
